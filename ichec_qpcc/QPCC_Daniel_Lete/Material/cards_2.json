@@ -1,0 +1,30 @@
+[
+    {
+        "front": "Which mode of operating a quantum computing system allows for turning off noise/errors? Why is this possible?",
+        "back": "Software-based simulation. This is because computational models of noise are included as optional features in the simulators."
+    },
+    {
+        "front": "What do you consider as a good pathway to start learning quantum programming on a quantum computing system?",
+        "back": "Explore application characteristics that could be suitable for quantum computing, identify candidate programming tools and algorithmic methods, gain access to a software simulator (recommended programming on a quantum computing hardware)."
+    },
+    {
+        "front": "Do you see benefits in using quantum computing as a part of a hybrid HPC-QC framework?",
+        "back": "Consider and discuss this from the views of computing technologies (e.g. CPUs, accelerators), programming tools (e.g. avoiding separate disconnected set of tools), applications (e.g. how GPUs have become general purpose for simulation/AI methods)."
+    },
+    {
+        "front": "Can quantum-enhanced machine learning replace classical machine learning?",
+        "back": "Not according to our current understanding. Large datasets could not be encoded due to expensive state preparation. So, quantum-enabled machine learning could accelerate certain computational steps within machine learning."
+    },
+    {
+        "front": "What are some national mechanisms available for Irish organisations to access QC or hybrid HPC-QC resources?",
+        "back": "EuroHPC activities such as HPCQS and EuroQCS is currently developing resources for QC and hybrid HPC-QC platforms, tools, use-cases and training material. ICHEC is a partner in many of these activities. Through the National Service and EuroCC activities, ICHEC can support you to gain acccess to these resources and communities."
+    },
+    {
+        "front": "What are some of the hybrid HPC-QC platforms and software tools being developed?",
+        "back": "Explore the references provided in this notebook, discuss among the cohort and with ICHEC staff, or search online about EuroHPC, HPCQS, EuroQCS, XACC, AWS Braket, Nvidia QODA/cuQuantum, IBM Quantum Runtime/Serverless, etc."
+    },
+    {
+        "front": "What interdisciplinary skills and resources would you or your organisation need for learning more about hybrid HPC-QC?",
+        "back": "Consider and/or discuss with the cohort and ICHEC staff about one or more of the following: potential partners, candidate use-case(s), high-level application workflow, software tools, access to platforms, and any reference material (scientific articles, white papers, publicly-available demonstrators, etc.)."
+    }
+]

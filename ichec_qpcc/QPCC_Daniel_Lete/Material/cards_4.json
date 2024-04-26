@@ -1,0 +1,23 @@
+[
+    {
+        "front": "Discuss the types and sources of noise in a Quantum system",
+        "back": "There are two types of Quantum noise, coherent and Incoherent noise and in general Quantum Noise can originate out of three interactions. Interactions between Qubit and the enivronment, interactions between the Gate and the Qubit and interactions between qubits themselves."
+        
+    },
+    {
+        "front": "Discuss how Hardware based error Correction schemes operate",
+        "back": "They work by introducing redundancy in the system, the information of one qubit is encoded within multiple qubits so that even if Noise effects  some of the qubits the information can be retained from the rest"            
+        
+    },
+    {
+        "front": "Discuss Software-based Error mitigation schemes",
+        "back": " Use mathematical regression and other analytical methods to remove the effects of noise from the systems in the Classical post-processing step. "
+                    
+        
+    },
+    {
+        "front": "Discuss temperature control and it's effects on Qubit performance",
+        "back": "The fidelity and coherence times of the qubit are greater at lower temperatures and that is why it's important to work on Optimal temperature control for these qubits."
+        
+    }
+]

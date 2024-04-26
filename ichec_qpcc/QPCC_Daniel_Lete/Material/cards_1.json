@@ -1,0 +1,30 @@
+[
+    {
+        "front": "How does quantum computing (QC) fit alongside classical high-performance computing (HPC) systems & applications?",
+        "back": "QC will serve as an accelerator in HPC for specific parts of an application, leading to hybrid HPC-QC systems & applications."
+    },
+    {
+        "front": "What types of problems can quantum computing (QC) solve better than classical high-performance computing (HPC)?",
+        "back": "Problems with approximations to address intractability, reducing precision when scaling complexity, simulate models which are related to quantum mechanics, etc.."
+    },
+    {
+        "front": "How would you define your role & value in quantum computing (QC)?",
+        "back": "This is best defined in discussion with experts in quantum computing systems & applications. Opportunities lie in end-user applications, co-development of technologies, ecosystem leadership, skills & training, etc.."
+    },
+    {
+        "front": "What are key tipping points or milestones for quantum computing (QC) to become more reliable & scalable?",
+        "back": "Improved noise & reliability in qubits & quantum gates, precision in control & engineering of quantum systems, integration of classical HPC & QC systems, higher-level software tools integrated with classical software tools."
+    },
+    {
+        "front": "Do quantum computers always need to be refridgerated and operated at extremely low temperatures?",
+        "back": "No all quantum computer realisation methods require refridgeration and operation at extremely low temperatures. For instance, the superconducting approach requires refridgeration, while photonics or diamond-based approaches may be operated at room temperature."
+    },
+    {
+        "front": "If real NISQ devices are already available for free access, then do we need software-based simulators of quantum computers?",
+        "back": "Currently available NISQ devices are extremely small and error-prone. Thus, programming them requires expertise in optimisation and customisation that is device-/vendor-specific. Software-based simulators on the other hand, allow for easier experimentation and skills development before using real hardware. Thus, beginning the learning and development process from software simulators before moving to NISQ hardware devices has proven helpful in the current scenario."
+    },
+    {
+        "front": "How or where can you start your engagement with quantum computing?",
+        "back": "Investigate potential use-cases of interest, mechanisms for skills development, partners for collaborations & discussion, national & international programmes in which to participate, etc.."
+    }
+]

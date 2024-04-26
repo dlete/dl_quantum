@@ -1,0 +1,23 @@
+[
+    {
+        "front": "Discuss the idea of reversibility in Classical and Quantum Gates",
+        "back": "Classical gates can in general be irreversible whereas Quantum Gates are always reversible"
+        
+    },
+    {
+        "front": "Discuss the differences in the features of Classical and Quantum Computing",
+        "back": "Differences : No irreversible gates in Quantum Computing while classical gates can be reversible, Copying of states is not possible with Qubits but it's possible to copy bits in Classical Computing ,Quantum bits exhibit Superposition/ Entanglement which are not exhibited by Classical Bits, Quantum Measurements are probabilstic whereas Classical results are deterministic"            
+        
+    },
+    {
+        "front": "Discuss the similarities in the features of Classical and Quantum Computing",
+        "back": " Similarities : Both have Universal gatesets, Both require the existence of independent states like the 0 and 1 state, Gates are used to manipulate the information in both cases."
+                    
+        
+    },
+    {
+        "front": "What are the implications of No Cloning theorem on Practical Quantum Computing",
+        "back": "Can't copy qubits which makes the challenge of errors and noise even more significant"
+        
+    }
+]
